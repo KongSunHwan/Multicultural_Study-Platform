@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 ## ○ 과제개요  
   - 현재 다양한 분야에서 사회적 가치 및 상생, 공유를 목표로 하는 사회적 기업이 많이 운영되고 있음
   - 경제적 사정 또는 신체적 활동 제약의 이유로 유료 또는 대면 학습이 어려운 취약계층을 위한 온라인 무료 학습 플랫폼 제공을 통해 사회적 가치를 실현하고자 함
@@ -55,6 +54,4 @@
 ## 강의 추천 목록
 ![강의 추천 목록](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/81158526-76f8-4189-876a-2b3b12b0ffc2)
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
