@@ -29,7 +29,7 @@
     
   - <백엔드 구현>
   - 일반 MVC2 방식 서블릿 초기 구현 -> Front Controller 패턴 , Command 패턴 도입해서 리팩토링 진행
-  - 강의 추천 목록 페이지 (카테고리 분류, 검색 , 페이징 70% 기여), 로그인, 회원가입, 강의 등록
+  - 강의 추천 목록 페이지 (카테고리 분류, 검색 , 페이징 70% 기여, 평점 40% 기여), 로그인, 회원가입, 강의 등록
 
 ## 개발 일정 계획
 ![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/d29a3f9b-928f-47d6-97f8-18d4cbc2e5ec)
