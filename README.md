@@ -1,4 +1,3 @@
-# Multicultural_Study_Platform
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 ## ○ 과제개요  
   - 현재 다양한 분야에서 사회적 가치 및 상생, 공유를 목표로 하는 사회적 기업이 많이 운영되고 있음
@@ -19,38 +18,43 @@
 
 ## ○ 팀내 맡은 역할
   - <프론트>
-  - UI 구현: 강의 상세페이지, 메인페이지(50% 기여), 마이페이지, 강좌페이지,로그인, 회원가입, 헤더, 푸터
+  - UI 구현: 강의 상세페이지, 강의 추천 목록 페이지(50% 기여), 마이페이지, 강좌페이지,로그인, 회원가입, 헤더, 푸터
     
   - <백엔드 구현>
   - 일반 MVC2 방식 서블릿 초기 구현 -> Front Controller 패턴 , Command 패턴 도입해서 리팩토링 진행
-  - 메인페이지 (카테고리 분류, 검색 , 페이징 70% 기여), 로그인, 회원가입, 강의 등록
+  - 강의 추천 목록 페이지 (카테고리 분류, 검색 , 페이징 70% 기여), 로그인, 회원가입, 강의 등록
 
-개발 일정 계획
+## 개발 일정 계획
 ![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/d29a3f9b-928f-47d6-97f8-18d4cbc2e5ec)
 
-개발 라이브러리&툴
+## 개발 라이브러리&툴
 ![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/72a68168-eda7-4677-8347-481ceb991521)
 
-회원가입
+## 회원가입
 ![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/c8acb539-e71b-43d6-bc97-0c2e5a33bd8b)
 
-학습 플랫폼 메인
-![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/72e9cf22-b9fc-42b5-ba9d-39d5f954011a)
+## 학습 플랫폼 메인
+![학습자 학습 플랫폼 메인](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/2214f8f8-c168-422e-9b3a-5f5ebfc12d98)
 
-학습자:학습진도확인
-![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/387bcb6c-82cf-4158-8901-31a757f19e2e)
 
-학습자:강의 세부정보 확인
-![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/1dbed470-8354-4d49-9e5c-43fcb4820412)
+## 학습자:학습진도확인
+![학습자 학습진도확인](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/426f4264-75e8-46fe-8b84-739149f98a69)
 
-관리자:강좌 설정
-![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/38d3ebab-5710-4853-8ba5-1ab629854dcb)
 
-강사:강의 등록
-![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/8a6698e3-85ed-4fac-ba83-7ca82d09efb0)
+## 학습자:강의 세부정보 확인
+![학습자 강의 세부정보 확인](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/47dfbe3d-6b0c-4bd1-8c71-a142dc297dae)
 
-강의 추천 목록
-![image](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/3b2d790b-0e8a-4ea6-bfa8-133eb2f01007)
+
+## 관리자:강좌 설정
+![관리자 강좌 설정](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/85fef31d-140e-4264-af3e-354ae9195574)
+
+## 강사:강의 등록
+![강사 강의 등록](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/c0a3bfba-ce96-4ed1-9f31-756a71399548)
+
+
+## 강의 추천 목록
+![강의 추천 목록](https://github.com/KongSunHwan/Multicultural_Study_Platform/assets/85215507/81158526-76f8-4189-876a-2b3b12b0ffc2)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
